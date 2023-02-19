@@ -48,7 +48,18 @@ Pivot element change
 
 1. Merge-sort has better worst case performance than quicksort. So why Quick-sort is considered better than Merge-sort? Refer to the following article
    https://www.geeksforgeeks.org/quicksort-better-mergesort/
+- Quicksort worst case can be brought down to Mergesort with selecting pivot by taking average from 3 elements.
 2. Refer to the following article. Analyze the complexity of the Merge-sort algorithm.
    https://www.softwaretestinghelp.com/merge-sort/
+- Merge-sort
+  Worst case time complexity	O(n*log n)
+  Best case time complexity	O(n*log n)
+  Average time complexity	O(n*log n)
+  Space complexity	O(n)
 3. Refer to the following article. Analyze the complexity of the Quick-sort algorithm.
    https://www.softwaretestinghelp.com/quick-sort/
+- Quick-sort
+  Worst case time complexity	O(n 2 )
+  Best case time complexity	O(n*log n)
+  Average time complexity	O(n*log n)
+  Space complexity	O(n*log n)
